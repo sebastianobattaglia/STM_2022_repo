@@ -22,7 +22,11 @@
 
 † Deceased
 
-*To whom correspondence should be addressed: odunsia@bsd.uchicago.edu or jmatsuzaki@bsd.uchicago.edu
+Correspondence for the manuscript: odunsia@bsd.uchicago.edu or jmatsuzaki@bsd.uchicago.edu
+Correspondence for repo, RNASeq/CyTOF/IMC data analysis: sebastiano.battaglia@roswellpark.org
+Correspondence for PK/PD data analysis: dmager@buffalo.edu
+Correspondence for metabolomic and network analyses: Spencer.Rosario@RoswellPark.org, Han.Yu@RoswellPark.org
 
 ------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------
+
