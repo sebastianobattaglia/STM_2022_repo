@@ -1,5 +1,5 @@
 
-### This repo contains the data for the Scient Translational Medicine manuscript:
+### --- This repo contains the data for the Science Translational Medicine manuscript: ----
 
 ### IDO1 inhibition and subsequent metabolic adaptations constrains anti-tumor immune responses in the tumor microenvironment of patients with ovarian cancer ####
 
