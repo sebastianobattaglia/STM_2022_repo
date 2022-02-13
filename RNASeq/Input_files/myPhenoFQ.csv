@@ -1,0 +1,19 @@
+Mice were IP injected with IE9IDO cells and treated differently.,,,
+,Group,Rep,
+Grp1-1,Grp1,R1,vehicle
+Grp1-2,Grp1,R2,vehicle
+Grp1-3,Grp1,R3,vehicle
+Grp2-2,Grp2,R2,Incyte
+Grp2-3,Grp2,R3,Incyte
+Grp2-4,Grp2,R4,Incyte
+Grp2-5,Grp2,R5,Incyte
+Grp3-1,Grp3,R1,FK866
+Grp3-2,Grp3,R2,FK866
+Grp3-3,Grp3,R3,FK866
+Grp3-4,Grp3,R4,FK866
+Grp3-5,Grp3,R5,FK866
+Grp4-2,Grp4,R2,FK866_Incyte
+Grp4-3,Grp4,R3,FK866_Incyte
+Grp4-5,Grp4,R5,FK866_Incyte
+Grp5-1,Grp5,R1,FK866_Incyte
+Grp5-2,Grp5,R2,FK866_Incyte
