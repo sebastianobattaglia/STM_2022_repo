@@ -1,1 +1,4 @@
 # IMC files used in the manuscript
+
+The `all_plot_data.txt.bz2` compressed file contains all processed intensity data used in the manuscript.
+It can be decompressed using `bunzip2 all_plot_data.txt.bz2`
